@@ -30,5 +30,7 @@ Requirements :
 • Python 3.6 – pandas
 
 How to run : 
+
 $ python generate_log.py <Filename.csv> 
+
 $ python tool.py <Filename.csv>
